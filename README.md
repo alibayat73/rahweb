@@ -15,8 +15,8 @@ A Laravel-based ticketing system with a two-level admin approval workflow, exter
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd ticketing-system
+   git clone git@github.com:alibayat73/rahweb.git
+   cd rahweb
    ```
 
 2. **Install dependencies**
